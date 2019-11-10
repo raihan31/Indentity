@@ -1,7 +1,7 @@
 .vscode/
-./Domain/bin
-./Domain/obj
-./IdentityService/bin
-./IdentityService/obj
-./Repository/bin
-./Repository/obj
+Domain/bin
+Domain/obj
+IdentityService/bin
+IdentityService/obj
+Repository/bin
+Repository/obj
