@@ -1,0 +1,8 @@
+/home/raihan/workspace/projects/asp/Identity/Repository/bin/Debug/netstandard2.0/Repository.deps.json
+/home/raihan/workspace/projects/asp/Identity/Repository/bin/Debug/netstandard2.0/Repository.dll
+/home/raihan/workspace/projects/asp/Identity/Repository/bin/Debug/netstandard2.0/Repository.pdb
+/home/raihan/workspace/projects/asp/Identity/Repository/obj/Debug/netstandard2.0/Repository.csprojAssemblyReference.cache
+/home/raihan/workspace/projects/asp/Identity/Repository/obj/Debug/netstandard2.0/Repository.AssemblyInfoInputs.cache
+/home/raihan/workspace/projects/asp/Identity/Repository/obj/Debug/netstandard2.0/Repository.AssemblyInfo.cs
+/home/raihan/workspace/projects/asp/Identity/Repository/obj/Debug/netstandard2.0/Repository.dll
+/home/raihan/workspace/projects/asp/Identity/Repository/obj/Debug/netstandard2.0/Repository.pdb
